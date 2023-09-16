@@ -1,0 +1,18 @@
+Location ID,Location,TerritoryKey,State,State Code,Region
+A100,Bangalore,1,Karnataka,KA,South
+A101,Mysore,2,Karnataka,KA,South
+A102,Mangalore,3,Karnataka,KA,South
+A103,Goa,4,Goa,GA,South
+A104,Chennai,5,Tamil Nadu,TN,South
+A105,Kochi,6,Kerla,KL,South
+A106,Coimbatore,7,Tamil Nadu,TN,South
+A107,Visakhapatnam,8,Andhra Pradesh,AP,South
+A108,Vijayawada,9,Andhra Pradesh,AP,South
+A109,New Delhi,10,Delhi,DL,North
+A110,Ahmadabad,11,Gujarat,GJ,West
+A111,Mumbai,12,Maharashtra,MH,West
+A112,Pune,13,Maharashtra,MH,West
+A113,Hyderabad,14,Telangana,TG,South
+A114,Kolkata,15,West Bengal,WB,East
+A115,Bhubaneshwar,16,West Bengal,WB,East
+A116,Jaipur,17,Rajasthan,RJ,North
